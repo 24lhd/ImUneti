@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296386016693",
+    "firebase_url": "https://hauiqlcl-44a91.firebaseio.com",
+    "project_id": "hauiqlcl-44a91",
+    "storage_bucket": "hauiqlcl-44a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296386016693:android:d56ffdd0f388aaad",
+        "android_client_info": {
+          "package_name": "com.lhd.uneti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296386016693-u8lrhdbebegt8099gjo4pnkpk2eb93rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPqoPqyBhuoMLSi_z1p7o2Adf-khdAxu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296386016693-u8lrhdbebegt8099gjo4pnkpk2eb93rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
